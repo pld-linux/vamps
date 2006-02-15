@@ -1,0 +1,10 @@
+--- vamps-0.98/play_cell/play_cell.c.orig	2005-11-16 21:20:30.000000000 +0100
++++ vamps-0.98/play_cell/play_cell.c	2006-02-15 22:41:04.000000000 +0100
+@@ -26,6 +26,7 @@
+  * 2004/10/03: Initial.
+  */
+ 
++#include <stdint.h>
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <stdarg.h>
