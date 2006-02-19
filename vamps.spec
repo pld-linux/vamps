@@ -1,4 +1,5 @@
 Summary:	Tool to recompress and modify the structure of a DVD
+Summary(pl):	Narzêdzie do przepakowywania i modyfikowania struktury DVD
 Name:		vamps
 Version:	0.98
 Release:	0.1
@@ -17,6 +18,13 @@ selectively copying audio and subpicture tracks and by resizing the
 embedded elementary video stream. The shrink factor may be either
 specified for the video elementary stream only or for the video ES
 only or for the full PS.
+
+%description -l pl
+Vamps zmniejsza rozmiar strumieni programowych MPEG2 zgodnych z DVD
+poprzez wybiórcze kopiowanie ¶cie¿ek d¼wiêkowych i podobrazów oraz
+zmiane rozmiaru osadzonego podstawowego strumienia obrazu.
+Wspó³czynnik zmniejszenia mo¿e byæ podany tylko dla podstawowego
+strumienia obrazu lub tylko dla ES, lub dla pe³nego PS.
 
 %prep
 %setup -q
