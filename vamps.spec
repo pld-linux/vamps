@@ -1,12 +1,12 @@
 Summary:	Tool to recompress and modify the structure of a DVD
 Summary(pl):	Narzêdzie do przepakowywania i modyfikowania struktury DVD
 Name:		vamps
-Version:	0.98
+Version:	0.99
 Release:	0.1
 License:	GPL v2
 Group:		Applications
 Source0:	http://dl.sourceforge.net/vamps/%{name}-%{version}.tar.gz
-# Source0-md5:	70f63e007a9cd314548efee2d48f1c85
+# Source0-md5:	63d61f2dd5c9df2eb2ad948164a56bae
 Patch0:		%{name}-stdint.patch
 URL:		http://vamps.sourceforge.net/
 BuildRequires:	libdvdread-devel
