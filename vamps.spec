@@ -1,5 +1,5 @@
 Summary:	Tool to recompress and modify the structure of a DVD
-Summary(pl.UTF-8):   Narzędzie do przepakowywania i modyfikowania struktury DVD
+Summary(pl.UTF-8):	Narzędzie do przepakowywania i modyfikowania struktury DVD
 Name:		vamps
 Version:	0.99
 Release:	1
